@@ -27,4 +27,10 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+## 🐍 My GitHub Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nozim123/Nozim123/main/dist/github-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/Nozim123/Nozim123/main/dist/github-snake.svg" alt="snake animation">
+</picture>
 
