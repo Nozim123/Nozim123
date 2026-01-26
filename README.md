@@ -1,7 +1,7 @@
 # About-myself
 
 
-<img width="1200" height="400" alt="image" src="https://github.com/user-attachments/assets/84b34c0a-fcb1-4e3a-a1ac-2b6c20790792" />
+<img width="1200" height="600" alt="image" src="https://github.com/user-attachments/assets/84b34c0a-fcb1-4e3a-a1ac-2b6c20790792" />
 
 
 ## 🌐 Socials:
