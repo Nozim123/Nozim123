@@ -1,19 +1,19 @@
 # About-myself
 
 <h1>
-Front end development, <br>
+Front end development, <br><br>
   
-Back end development, <br>
+Back end development, <br><br>
 
-CyberSecurity, <br>
+CyberSecurity, <br><br>
 
-information security, <br>
+information security, <br><br>
 
-Startup, <br>
+Startup, <br><br>
 
-AI, <br>
+AI, <br><br>
 
-Vibe coding <br>
+Vibe coding <br><br>
 </h1>
 
 ## 🌐 Socials:
