@@ -4,6 +4,11 @@
 
 # 👨‍💻 My Tech Portfolio
 
+<div align="center">
+  <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/9126424b-04a9-4803-8595-69560285ec56" />
+  <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/70194c8e-74f0-4576-8f24-3d9fda8622e4" />  
+</div>
+
 ### Building secure, scalable and intelligent digital solutions
 
 </div>
@@ -77,10 +82,6 @@ To combine **engineering precision**, **security awareness**, and **AI innovatio
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<div align="center">
-  <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/9126424b-04a9-4803-8595-69560285ec56" />
-  <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/70194c8e-74f0-4576-8f24-3d9fda8622e4" />  
-</div>
 
 
 
