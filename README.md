@@ -2,11 +2,17 @@
 
 <h1>
 Front end development, <br>
+  
 Back end development, <br>
+
 CyberSecurity, <br>
+
 information security, <br>
+
 Startup, <br>
+
 AI, <br>
+
 Vibe coding <br>
 </h1>
 
