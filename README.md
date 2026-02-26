@@ -1,5 +1,15 @@
 # About-myself
 
+<h1>
+Front end development,
+Back end development,
+CyberSecurity,
+information security,
+Startup,
+AI,
+Vibe coding
+</h1>
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/NozimjonRuziyevv) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__nozim_jon__) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/NozimZ89397) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@NozimRoziyev) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Nozim-Roziyev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:roziyevnozim43@gmail.com) 
 
