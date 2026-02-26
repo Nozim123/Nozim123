@@ -52,6 +52,7 @@ To combine **engineering precision**, **security awareness**, and **AI innovatio
 ### ⭐ Always Learning. Always Building.
 
 </div>
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/NozimjonRuziyevv) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__nozim_jon__) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/NozimZ89397) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@NozimRoziyev) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Nozim-Roziyev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:roziyevnozim43@gmail.com) 
 
@@ -77,4 +78,6 @@ To combine **engineering precision**, **security awareness**, and **AI innovatio
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <img width="563" height="403" alt="image" src="https://github.com/user-attachments/assets/9126424b-04a9-4803-8595-69560285ec56" />
+<img width="609" height="465" alt="image" src="https://github.com/user-attachments/assets/70194c8e-74f0-4576-8f24-3d9fda8622e4" />
+
 
