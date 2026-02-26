@@ -26,10 +26,10 @@ I focus on building scalable systems, secure architectures, and innovative start
 
 <div align="center">
 
-| 💻 Development | 🔐 Security | 🚀 Innovation |
-|---------------|------------|---------------|
-| Front-End Development | CyberSecurity | Startup Building |
-| Back-End Development | Information Security | AI Solutions |
+| 💻 Development | 🔐 Security | 🚀 Innovation | office programs |
+|---------------|------------|---------------|---------------| Exel |
+| Front-End Development | CyberSecurity | Startup Building | Power point |
+| Back-End Development | Information Security | AI Solutions | Word |
 | Vibe Coding | | |
 
 </div>
