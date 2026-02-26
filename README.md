@@ -76,3 +76,5 @@ To combine **engineering precision**, **security awareness**, and **AI innovatio
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+<img width="563" height="403" alt="image" src="https://github.com/user-attachments/assets/9126424b-04a9-4803-8595-69560285ec56" />
+
