@@ -1,21 +1,57 @@
 # About-myself
 
-<h1>
-Front end development, <br><br>
-  
-Back end development, <br><br>
+<div align="center">
 
-CyberSecurity, <br><br>
+# 👨‍💻 My Tech Portfolio
 
-information security, <br><br>
+### Building secure, scalable and intelligent digital solutions
 
-Startup, <br><br>
+</div>
 
-AI, <br><br>
+---
 
-Vibe coding <br><br>
-</h1>
+## 🚀 About This Portfolio
 
+This portfolio showcases my expertise in modern software development, cybersecurity, and AI-driven solutions.  
+I focus on building scalable systems, secure architectures, and innovative startup-ready products.
+
+---
+
+## 🧠 Core Areas of Expertise
+
+<div align="center">
+
+| 💻 Development | 🔐 Security | 🚀 Innovation |
+|---------------|------------|---------------|
+| Front-End Development | CyberSecurity | Startup Building |
+| Back-End Development | Information Security | AI Solutions |
+| Vibe Coding | | |
+
+</div>
+
+---
+
+## 🛠 Tech Focus
+
+- ⚡ Clean & Scalable Architecture  
+- 🔒 Security-First Approach  
+- 🤖 AI Integration  
+- 🚀 Startup-Oriented Development  
+- 🎯 Performance Optimization  
+
+---
+
+## 📌 Mission
+
+To combine **engineering precision**, **security awareness**, and **AI innovation** to create impactful digital products.
+
+---
+
+<div align="center">
+
+### ⭐ Always Learning. Always Building.
+
+</div>
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/NozimjonRuziyevv) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__nozim_jon__) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/NozimZ89397) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@NozimRoziyev) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Nozim-Roziyev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:roziyevnozim43@gmail.com) 
 
