@@ -4,7 +4,30 @@
 
 # 👨‍💻 My Tech Portfolio
 
+<h1 align="center">📜 My Certifications</h1>
+
 <div align="center">
+
+### 🧠 AI & Machine Learning
+
+<img src="certificates/google-ai.png" width="600"/>
+<br><br>
+
+<a href="certificates/google-ai.pdf">🔗 View Certificate</a>
+
+---
+
+### 💻 Front-End Development
+
+<img src="certificates/meta-frontend.png" width="600"/>
+<br><br>
+
+<a href="certificates/meta-frontend.pdf">🔗 View Certificate</a>
+
+</div>
+
+<div align="center">
+  
   <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/9126424b-04a9-4803-8595-69560285ec56" />
   <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/70194c8e-74f0-4576-8f24-3d9fda8622e4" />  
   <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/2efb1653-0645-41df-82b1-991ab1eadab5" />
