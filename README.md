@@ -8,7 +8,7 @@
   <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/9126424b-04a9-4803-8595-69560285ec56" />
   <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/70194c8e-74f0-4576-8f24-3d9fda8622e4" />  
   <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/2efb1653-0645-41df-82b1-991ab1eadab5" />
-
+  <img width="601" height="466" alt="image" src="https://github.com/user-attachments/assets/0bbf9eba-544c-48f1-9bc3-4bc9bf4030ed" />
 </div>
 
 ### Building secure, scalable and intelligent digital solutions
