@@ -19,20 +19,14 @@
 
 ### 💻 Front-End Development
 
-<img src="certificates/meta-frontend.png" width="600"/>
+ <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/70194c8e-74f0-4576-8f24-3d9fda8622e4" />  
+  <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/2efb1653-0645-41df-82b1-991ab1eadab5" />
+  <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/0bbf9eba-544c-48f1-9bc3-4bc9bf4030ed" />
+  <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/454b7746-08d1-466e-ac15-4d1b6abaecb2" />
 <br><br>
 
 <a href="certificates/meta-frontend.pdf">🔗 View Certificate</a>
 
-</div>
-
-<div align="center">
-  
-
-  <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/70194c8e-74f0-4576-8f24-3d9fda8622e4" />  
-  <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/2efb1653-0645-41df-82b1-991ab1eadab5" />
-  <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/0bbf9eba-544c-48f1-9bc3-4bc9bf4030ed" />
-  <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/454b7746-08d1-466e-ac15-4d1b6abaecb2" />
 </div>
 
 ### Building secure, scalable and intelligent digital solutions
