@@ -10,7 +10,8 @@
 
 ### 🧠 AI & Machine Learning
 
-  <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/9126424b-04a9-4803-8595-69560285ec56" />
+  <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/9126424b-04a9-4803-8595-69560285ec56" /> <br><br>
+  <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/70194c8e-74f0-4576-8f24-3d9fda8622e4" />  
 <br><br>
 
 <a href="certificates/google-ai.pdf">🔗 View Certificate</a>
@@ -18,8 +19,6 @@
 ---
 
 ### 💻 Front-End Development
-
- <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/70194c8e-74f0-4576-8f24-3d9fda8622e4" />  
   <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/2efb1653-0645-41df-82b1-991ab1eadab5" />
   <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/0bbf9eba-544c-48f1-9bc3-4bc9bf4030ed" />
   <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/454b7746-08d1-466e-ac15-4d1b6abaecb2" />
