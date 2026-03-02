@@ -19,11 +19,13 @@
 ---
 
 ### 💻 Front-End Development
-  <img width="609" height="475" alt="image" src="https://github.com/user-attachments/assets/2efb1653-0645-41df-82b1-991ab1eadab5" />
-  <img width="609" height="475" alt="image" src="https://github.com/user-attachments/assets/0bbf9eba-544c-48f1-9bc3-4bc9bf4030ed" />
-  <img width="609" height="475" alt="image" src="https://github.com/user-attachments/assets/454b7746-08d1-466e-ac15-4d1b6abaecb2" />
-  <img width="609" height="475" alt="image" src="https://github.com/user-attachments/assets/8c793547-fd09-48a9-8efa-cb155e98c6f2" />
-  <img width="609" height="475" alt="image" src="https://github.com/user-attachments/assets/32b8fe25-2396-4e87-b61f-b7c7f513c91d" />
+  <img width="609" height="475" alt="image" src="https://github.com/user-attachments/assets/2efb1653-0645-41df-82b1-991ab1eadab5" /> <br><br>
+  <img width="609" height="475" alt="image" src="https://github.com/user-attachments/assets/0bbf9eba-544c-48f1-9bc3-4bc9bf4030ed" /> <br><br>
+  <img width="609" height="475" alt="image" src="https://github.com/user-attachments/assets/454b7746-08d1-466e-ac15-4d1b6abaecb2" /> <br><br>
+  <img width="609" height="475" alt="image" src="https://github.com/user-attachments/assets/8c793547-fd09-48a9-8efa-cb155e98c6f2" /> <br><br>
+  <img width="609" height="475" alt="image" src="https://github.com/user-attachments/assets/32b8fe25-2396-4e87-b61f-b7c7f513c91d" /> <br><br>
+  <img width="604" height="470" alt="image" src="https://github.com/user-attachments/assets/52d6d9e9-b2de-44e0-a22f-3f7f8f3b8cb3" /> <br><br>
+
 
 <br><br>
 
