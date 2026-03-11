@@ -2,8 +2,6 @@
 
 <div align="center">
 
-# 👨‍💻 My Tech Portfolio
-
 <h1 align="center">📜 My Certifications</h1>
 
 <div align="center">
